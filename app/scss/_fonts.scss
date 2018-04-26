@@ -1,0 +1,7 @@
+@import "_mixins/font-face";
+
+@include font-face("ArvoRegular","../webfonts/ArvoRegular/ArvoRegular");
+@include font-face("PTSansNarrowRegular","../webfonts/PTSansNarrowRegular/PTSansNarrowRegular");
+@include font-face("PTSansRegular","../webfonts/PTSansRegular/PTSansRegular");
+@include font-face("PTSansItalic","../webfonts/PTSansItalic/PTSansItalic",italic);
+@include font-face("PTSansBold","../webfonts/PTSansBold/PTSansBold",bold);
