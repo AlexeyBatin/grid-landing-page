@@ -1,5 +1,13 @@
 # Practice GRID and FLEXBOX
 Practice grid&amp;flexbox with using BEM naming .
+<h2>Technologies</h2>
+<ul>
+	<li>SCSS</li>
+	<li>CSS Grid</li>
+	<li>Flexbox</li>
+	<li>Gulp</li>
+	
+</ul>
 ## How to use
 <ol>
     <li>Download zip or clone from GitHub;</li>
