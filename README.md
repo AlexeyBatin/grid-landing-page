@@ -8,7 +8,7 @@ Practice grid&amp;flexbox with using BEM naming .
 	<li>Gulp</li>
 	
 </ul>
-## How to use
+<h2> How to use</h2>
 <ol>
     <li>Download zip or clone from GitHub;</li>
     <li>Install Node Modules: <code>npm i</code>;</li>
